@@ -73,4 +73,10 @@ The following are some of the plots that are included in the project:<br>
 ![Screenshot 2023-05-15 180905](https://github.com/shivam-gupta0/Geo-Spatial-Data-Analysis-of-Zomato-Restaurants-in-Bengaluru/assets/85798077/ec5f7a3d-c9de-4201-965d-13f7518e1245)
 
 
+# Conclusion<br>
+The analysis shows that there is a significant relationship between the rating of a restaurant and its cost, online ordering option, and the type of cuisine it offers. Customers can use this information to make informed decisions about where to order food from. Restaurant owners can use these insights to improve their services and increase their ratings.<br>
 
+# Credits
+The data used in this project was sourced from Kaggle.<br>
+
+The inspiration for this project came from the Zomato Data Analysis project on Kaggle.<br>
