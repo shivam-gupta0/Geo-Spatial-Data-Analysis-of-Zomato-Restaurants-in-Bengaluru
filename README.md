@@ -1,6 +1,7 @@
 # Geo-Spatial-Data-Analysis-of-Zomato-Restaurants-in-Bengaluru
-This is a data analysis project that uses SQLite to store and retrieve data. The project includes scripts for data cleaning, exploratory data analysis, and data visualization. 
-This project analyzes the data from Zomato, a popular online food delivery platform. The project aims to explore the relationships between various factors such as the rating, cost, online ordering, etc., and provide insights that can be useful for customers as well as restaurant owners. <br> <br>
+This data analysis project focuses on analyzing data from Zomato, a popular online food delivery platform, using SQLite as the database. The project includes various scripts for data cleaning, exploratory data analysis, and data visualization. The primary objective of this project is to explore the relationships between different factors such as restaurant rating, cost, online ordering, and more, with the aim of providing valuable insights for both customers and restaurant owners.<br>
+The project investigates the correlation between a restaurant's rating and its online order option. By creating frequency tables, the project determines the number of restaurants with specific ratings (e.g., 0, 1, 1.2, 1.4, 1.6) and whether they accept online orders or not. Analyzing these frequency tables helps identify any potential correlation between rating and online order acceptance.
+<br>
 # Installation <br>
 To run this project, you need to have Python 3 and the following libraries installed:
 
@@ -78,8 +79,23 @@ The following are some of the plots that are included in the project:<br>
 ![Screenshot 2023-05-15 180905](https://github.com/shivam-gupta0/Geo-Spatial-Data-Analysis-of-Zomato-Restaurants-in-Bengaluru/assets/85798077/ec5f7a3d-c9de-4201-965d-13f7518e1245)
 
 
-# Conclusion<br>
-The analysis shows that there is a significant relationship between the rating of a restaurant and its cost, online ordering option, and the type of cuisine it offers. Customers can use this information to make informed decisions about where to order food from. Restaurant owners can use these insights to improve their services and increase their ratings.<br>
+# Conclusion and Insights:<br>
+
+Restaurant Locations: The project reveals that Bangalore's central area, including BTM, HSR, and Koramangala 5th block, has the highest concentration of restaurants, with BTM having the most significant number of restaurants. This information can assist entrepreneurs in identifying potential locations for their new ventures.<br>
+
+Online Order and Rating Correlation: The scatter plot analysis shows that highly-rated restaurants mostly accept online orders, indicating a positive correlation between rating and online order acceptance. Additionally, restaurants accepting online orders tend to be more budget-friendly.<br>
+
+Cost Distribution: The bar plot illustrates the distribution of approximate costs for two people, giving insights into the cost range of restaurants in Bangalore. This information can help customers plan their dining experiences based on their budget.<br>
+
+Popular Cuisines: By analyzing the data, the project identifies the most popular cuisines in Bangalore. This insight can be valuable for customers seeking specific culinary experiences.<br>
+
+Restaurant Chains: The project highlights popular restaurant chains in Bangalore, such as Empire, Beijing Bites, and Mani's Dum Biryani. Exploring these chains further can provide valuable insights into successful restaurant operations.<br>
+
+Customer Reviews: The project analyzes customer reviews and identifies frequently mentioned terms related to food, taste, service, and specific dishes. This information can help restaurant owners understand customer preferences and improve their offerings.<br>
+
+Geographic Insights: The heatmap analysis provides insights into the density and distribution of restaurants across Bangalore. Central Bangalore emerges as a hotspot for dining out, while the number of restaurants decreases as we move away from the central area. This observation can guide restaurant entrepreneurs in choosing suitable locations for their ventures.<br>
+
+Overall, this data analysis project sheds light on various aspects of the restaurant industry in Bangalore. The insights gained from this analysis can be valuable for customers, restaurant owners, and potential entrepreneurs looking to make informed decisions and improve their experiences in the dynamic food scene of Bangalore.<br>
 
 # Credits
 The data used in this project was sourced from Kaggle.<br>
