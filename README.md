@@ -26,7 +26,7 @@ The following are some of the plots that are included in the project:<br>
 
 **Top 20 Restaurant Types in Bangalore**<br>
 
-![4](https://github.com/shivam-gupta0/Geo-Spatial-Data-Analysis-of-Zomato-Restaurants-in-Bengaluru/assets/85798077/abf73089-dc8f-4627-99fb-d3c6cfae41ac)
+![4](https://github.com/shivam-gupta0/Geo-Spatial-Data-Analysis-of-Zomato-Restaurants-in-Bengaluru/assets/85798077/abf73089-dc8f-4627-99fb-d3c6cfae41ac)<br><br>
 
 
 **Top 20 Restaurants by Average Rating**<br>
@@ -51,12 +51,17 @@ The following are some of the plots that are included in the project:<br>
 ![download (4)](https://github.com/shivam-gupta0/Geo-Spatial-Data-Analysis-of-Zomato-Restaurants-in-Bengaluru/assets/85798077/9a112e85-4b7a-40ca-a0e6-c9afd7bb3bfc)<br><br>
 
 
-**A box plot showing the distribution of ratings for different types of restaurants.**<br>
+**Trigram Analysis of customer reviews**<br>
+![9](https://github.com/shivam-gupta0/Geo-Spatial-Data-Analysis-of-Zomato-Restaurants-in-Bengaluru/assets/85798077/41c576b3-1514-4f3d-aae9-9980ea904a2d)
 
 
-**A heat map showing the correlation between different features in the data.**<br>
+**Distribution of cost for 2 people**<br>
+
+![8](https://github.com/shivam-gupta0/Geo-Spatial-Data-Analysis-of-Zomato-Restaurants-in-Bengaluru/assets/85798077/502ee134-91ce-4a2f-9e64-ec07ed0218f4)<br><br>
+
 
 **Top 10 Most Popular Cuisines in Bangalore.**<br>
+![7](https://github.com/shivam-gupta0/Geo-Spatial-Data-Analysis-of-Zomato-Restaurants-in-Bengaluru/assets/85798077/ceb40fb2-f259-4676-8ba3-f1142d940908)
 
 
 
